@@ -1,0 +1,65 @@
+2024-10-01 20:16:03,589 DEBUG Horse: Создание Horse, имя pony, скорость 1.0
+2024-10-01 20:16:03,594 ERROR Horse: Speed is negative
+2024-10-01 20:16:03,595 ERROR Horse: Distance is negative
+2024-10-01 20:16:03,597 DEBUG Horse: Создание Horse, имя pony, скорость 1.0
+2024-10-01 20:16:03,598 ERROR Horse: Speed is negative
+2024-10-01 20:16:03,599 DEBUG Horse: Создание Horse, имя pony, скорость 1.0
+2024-10-01 20:16:03,624 ERROR Horse: Name is blank
+2024-10-01 20:16:03,627 ERROR Horse: Name is blank
+2024-10-01 20:16:03,629 ERROR Horse: Name is blank
+2024-10-01 20:16:03,631 ERROR Horse: Name is blank
+2024-10-01 20:16:04,243 DEBUG Horse: Создание Horse, имя pony, скорость 31.0
+2024-10-01 20:16:04,302 DEBUG Horse: Создание Horse, имя pony, скорость 31.0
+2024-10-01 20:16:04,307 DEBUG Horse: Создание Horse, имя pony, скорость 31.0
+2024-10-01 20:16:04,312 DEBUG Horse: Создание Horse, имя pony, скорость 31.0
+2024-10-01 20:16:04,318 DEBUG Horse: Создание Horse, имя pony, скорость 31.0
+2024-10-01 20:16:04,323 DEBUG Horse: Создание Horse, имя pony, скорость 31.0
+2024-10-01 20:16:04,330 ERROR Horse: Name is null
+2024-10-01 20:16:04,334 ERROR Horse: Name is blank
+2024-10-01 20:16:04,337 ERROR Horse: Name is blank
+2024-10-01 20:16:04,338 ERROR Horse: Name is blank
+2024-10-01 20:16:04,340 ERROR Horse: Name is blank
+2024-10-01 20:16:04,343 ERROR Horse: Distance is negative
+2024-10-01 20:16:04,344 ERROR Horse: Name is null
+2024-10-01 20:16:04,346 DEBUG Horse: Создание Horse, имя pony, скорость 1.0
+2024-10-01 20:16:04,373 DEBUG Horse: Создание Horse, имя pony, скорость 400.0
+2024-10-01 20:16:04,375 ERROR Hippodrome: Horses list is null
+2024-10-01 20:16:04,376 ERROR Hippodrome: Horses list is null
+2024-10-01 20:16:04,377 ERROR Hippodrome: Horses list is empty
+2024-10-01 20:16:04,433 DEBUG Hippodrome: Создание Hippodrome,50 
+2024-10-01 20:16:04,504 ERROR Hippodrome: Horses list is empty
+2024-10-01 20:16:04,507 DEBUG Horse: Создание Horse, имя 1, скорость 1.0
+2024-10-01 20:16:04,507 DEBUG Horse: Создание Horse, имя 2, скорость 2.0
+2024-10-01 20:16:04,508 DEBUG Horse: Создание Horse, имя 3, скорость 3.0
+2024-10-01 20:16:04,508 DEBUG Horse: Создание Horse, имя 4, скорость 4.0
+2024-10-01 20:16:04,508 DEBUG Horse: Создание Horse, имя 5, скорость 5.0
+2024-10-01 20:16:04,508 DEBUG Horse: Создание Horse, имя 6, скорость 6.0
+2024-10-01 20:16:04,508 DEBUG Horse: Создание Horse, имя 7, скорость 7.0
+2024-10-01 20:16:04,508 DEBUG Horse: Создание Horse, имя 8, скорость 8.0
+2024-10-01 20:16:04,508 DEBUG Horse: Создание Horse, имя 9, скорость 9.0
+2024-10-01 20:16:04,508 DEBUG Horse: Создание Horse, имя 10, скорость 10.0
+2024-10-01 20:16:04,508 DEBUG Horse: Создание Horse, имя 11, скорость 11.0
+2024-10-01 20:16:04,508 DEBUG Horse: Создание Horse, имя 12, скорость 12.0
+2024-10-01 20:16:04,508 DEBUG Horse: Создание Horse, имя 13, скорость 13.0
+2024-10-01 20:16:04,508 DEBUG Horse: Создание Horse, имя 14, скорость 14.0
+2024-10-01 20:16:04,508 DEBUG Horse: Создание Horse, имя 15, скорость 15.0
+2024-10-01 20:16:04,508 DEBUG Horse: Создание Horse, имя 16, скорость 16.0
+2024-10-01 20:16:04,508 DEBUG Horse: Создание Horse, имя 17, скорость 17.0
+2024-10-01 20:16:04,508 DEBUG Horse: Создание Horse, имя 18, скорость 18.0
+2024-10-01 20:16:04,508 DEBUG Horse: Создание Horse, имя 19, скорость 19.0
+2024-10-01 20:16:04,508 DEBUG Horse: Создание Horse, имя 20, скорость 20.0
+2024-10-01 20:16:04,509 DEBUG Horse: Создание Horse, имя 21, скорость 21.0
+2024-10-01 20:16:04,509 DEBUG Horse: Создание Horse, имя 22, скорость 22.0
+2024-10-01 20:16:04,509 DEBUG Horse: Создание Horse, имя 23, скорость 23.0
+2024-10-01 20:16:04,509 DEBUG Horse: Создание Horse, имя 24, скорость 24.0
+2024-10-01 20:16:04,509 DEBUG Horse: Создание Horse, имя 25, скорость 25.0
+2024-10-01 20:16:04,509 DEBUG Horse: Создание Horse, имя 26, скорость 26.0
+2024-10-01 20:16:04,509 DEBUG Horse: Создание Horse, имя 27, скорость 27.0
+2024-10-01 20:16:04,509 DEBUG Horse: Создание Horse, имя 28, скорость 28.0
+2024-10-01 20:16:04,509 DEBUG Horse: Создание Horse, имя 29, скорость 29.0
+2024-10-01 20:16:04,509 DEBUG Hippodrome: Создание Hippodrome,29 
+2024-10-01 20:16:04,511 DEBUG Horse: Создание Horse, имя 0, скорость 0.0
+2024-10-01 20:16:04,511 DEBUG Horse: Создание Horse, имя 1, скорость 1.0
+2024-10-01 20:16:04,511 DEBUG Horse: Создание Horse, имя 2, скорость 2.0
+2024-10-01 20:16:04,511 DEBUG Horse: Создание Horse, имя 3, скорость 3.0
+2024-10-01 20:16:04,511 DEBUG Hippodrome: Создание Hippodrome,4 
